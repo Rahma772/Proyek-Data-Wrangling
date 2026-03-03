@@ -1,0 +1,4 @@
+Transaction_ID,Customer_Name,Product_Category,Quantity,Price,Total_Amount,Transaction_Date,Payment_Method
+TRX001,Andi Saputra,Electronics,2,3500000,7000000,2025-01-10,Credit Card
+TRX002,Siti Rahma,Fashion,3,250000,750000,2025-01-12,E-Wallet
+TRX003,Budi Santoso,Home & Living,1,1200000,1200000,2025-01-15,Bank Transfer
